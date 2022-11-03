@@ -5,8 +5,8 @@
 </p>
 
 - 🔭 I’m currently studying a Physics BA at University of Buenos Aires. 
-- ⚡ My interest are Machine Learning, Computer Simulations and Quantitative Finance. I currently know Python and SQL
-- 🌱 I’m currently learning R and I'm looking forward to expanding my knowledge of ML libraries
+- ⚡ My interest are Machine Learning, Computer Simulations and Quantitative Finance. I currently know Python, R and SQL
+- 🌱 I’m getting into C and Linux nowadays. Furthermore, I'm looking forward to expanding my knowledge of ML libraries
 
 
 <!--
