@@ -1,4 +1,4 @@
-### Hi there I'm Julián👋
+### Hi there, I'm Julián👋
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Physics+Student;Tech%20Enthusiast;Always%20learning&center=true&width=500&height=50"></a>
