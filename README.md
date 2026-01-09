@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Physics+Student;Tech%20Enthusiast;Always%20learning&center=true&width=500&height=50"></a>
 </p>
 
-- 🔭 I’m currently studying a Physics BA at University of Buenos Aires. 
+- 🔭 I recently completed my Msc. degree in Physics, from the University of Buenos Aires.
 - ⚡ My interest are Machine Learning, Computer Simulations and Quantitative Finance. I currently know Python, R and SQL
 - 🌱 I’m getting into C and Linux nowadays. Furthermore, I'm looking forward to expanding my knowledge of ML libraries
 
